@@ -1,0 +1,13 @@
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.AssemblyReference.cache
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.SuggestedBindingRedirects.cache
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab_5.Form1.resources
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab_5.Properties.Resources.resources
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.GenerateResource.cache
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab 5.csproj.CoreCompileInputs.cache
+M:\Programming Related\c# projects\Lab 5\Lab 5\bin\Debug\softtech.mdf
+M:\Programming Related\c# projects\Lab 5\Lab 5\bin\Debug\softtech_log.ldf
+M:\Programming Related\c# projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe.config
+M:\Programming Related\c# projects\Lab 5\Lab 5\bin\Debug\Lab 5.exe
+M:\Programming Related\c# projects\Lab 5\Lab 5\bin\Debug\Lab 5.pdb
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab 5.exe
+M:\Programming Related\c# projects\Lab 5\Lab 5\obj\Debug\Lab 5.pdb
